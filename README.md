@@ -74,14 +74,6 @@ Personalize the application with:
 
 ---
 
-## Calculation History
-
-<p align="center">
-  <img src="docs/screenshots/history.png" width="360" alt="Calculation history">
-</p>
-
----
-
 ## Theme Customization
 
 <p align="center">
