@@ -90,7 +90,7 @@ Personalize the application with:
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Getting Started
 
 ### Requirements
 
