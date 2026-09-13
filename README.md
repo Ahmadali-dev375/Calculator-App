@@ -2,7 +2,7 @@
 
 # 🧮 Universal Calculator & Unit Converter
 
-### A lightweight Flutter calculator and multi-category unit converter for study, work, and everyday use.
+### A lightweight Flutter calculator and multi-category unit converter.
 
 Built with **Flutter & Dart**.
 
@@ -14,8 +14,6 @@ Built with **Flutter & Dart**.
 
 **Universal Calculator & Converter** combines a clean everyday calculator with a powerful unit conversion system in one lightweight mobile application.
 
-It is designed for students, professionals, and everyday users who need quick calculations, convenient conversions, calculation history, and customizable appearance without unnecessary complexity.
-
 ---
 
 ## ✨ Features
@@ -26,7 +24,6 @@ It is designed for students, professionals, and everyday users who need quick ca
 - Addition, subtraction, multiplication, and division
 - Percentage calculations
 - Decimal calculations
-- Clean and responsive calculator interface
 
 ### 🔄 Unit Converter
 
